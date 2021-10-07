@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memorization-game/static/css/main.55f85404.chunk.css",
+    "main.js": "/memorization-game/static/js/main.bde1ab64.chunk.js",
+    "main.js.map": "/memorization-game/static/js/main.bde1ab64.chunk.js.map",
+    "runtime-main.js": "/memorization-game/static/js/runtime-main.dbfa3097.js",
+    "runtime-main.js.map": "/memorization-game/static/js/runtime-main.dbfa3097.js.map",
+    "static/js/2.73971f3f.chunk.js": "/memorization-game/static/js/2.73971f3f.chunk.js",
+    "static/js/2.73971f3f.chunk.js.map": "/memorization-game/static/js/2.73971f3f.chunk.js.map",
+    "index.html": "/memorization-game/index.html",
+    "static/css/main.55f85404.chunk.css.map": "/memorization-game/static/css/main.55f85404.chunk.css.map",
+    "static/js/2.73971f3f.chunk.js.LICENSE.txt": "/memorization-game/static/js/2.73971f3f.chunk.js.LICENSE.txt",
+    "static/media/abezy.018d6db4.png": "/memorization-game/static/media/abezy.018d6db4.png",
+    "static/media/bance.69f17449.png": "/memorization-game/static/media/bance.69f17449.png",
+    "static/media/censor.c15c540c.png": "/memorization-game/static/media/censor.c15c540c.png",
+    "static/media/clayster.da1eeff9.png": "/memorization-game/static/media/clayster.da1eeff9.png",
+    "static/media/crimsix.f262011f.png": "/memorization-game/static/media/crimsix.f262011f.png",
+    "static/media/dashy.d58108eb.png": "/memorization-game/static/media/dashy.d58108eb.png",
+    "static/media/drazah.aa81e170.png": "/memorization-game/static/media/drazah.aa81e170.png",
+    "static/media/envoy.bf802646.png": "/memorization-game/static/media/envoy.bf802646.png",
+    "static/media/gunless.c070d323.png": "/memorization-game/static/media/gunless.c070d323.png",
+    "static/media/huke.b834d10c.png": "/memorization-game/static/media/huke.b834d10c.png",
+    "static/media/kenny.6446b0f0.png": "/memorization-game/static/media/kenny.6446b0f0.png",
+    "static/media/scump.ce72e7d7.png": "/memorization-game/static/media/scump.ce72e7d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbfa3097.js",
+    "static/js/2.73971f3f.chunk.js",
+    "static/css/main.55f85404.chunk.css",
+    "static/js/main.bde1ab64.chunk.js"
+  ]
+}
