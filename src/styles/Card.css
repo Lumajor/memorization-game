@@ -1,0 +1,31 @@
+/* .picture-container {
+    border: solid 1px black;
+} */
+
+img {
+    height: 240px;
+    width: 240px;
+    z-index: 0;
+}
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+}
+
+.figure-container {
+    margin: 4px;
+    border: solid 1px black;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+     -moz-box-shadow: 0 10px 6px -6px #777;
+          box-shadow: 0 10px 6px -6px #777;
+}
+
+.figure-container:hover {
+    z-index: 1;
+    box-shadow: 0 0 5px 5px black;
+}
+
+.figure-container:active {
+    transform: translateY(4px);
+}

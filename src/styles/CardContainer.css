@@ -1,0 +1,14 @@
+.card-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.scoreboard {
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.game-container {
+    margin: 10px;
+}
